@@ -13,5 +13,5 @@ Lab instruction for lab 3
 N/A
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
+| `Isaac Tong`    | `tszkinis` |
 | `<Add more>` | `<CCID>`  |
