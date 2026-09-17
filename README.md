@@ -10,7 +10,7 @@
 Lab instruction for lab 3
 
 ## Verbal Collaboration
-N/A
+This lab is done by myself
 | Student Name | CCID      |
 | ------------ | --------- |
 | `Isaac Tong`    | `tszkinis` |
